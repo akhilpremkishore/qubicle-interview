@@ -1,13 +1,13 @@
-#Clone project using
-git clone https://github.com/akhilpremkishore/qubicle-interview.git
-composer install
+#Clone project using<br />
+git clone https://github.com/akhilpremkishore/qubicle-interview.git<br />
+composer install<br />
 
-#Run Laravel project
-php artisan serve
-php artisan migrate
-php artisan db:seed
+#Run Laravel project<br />
+ php artisan serve<br />
+ php artisan migrate<br />
+ php artisan db:seed<br />
 
-#Admin Login
+#Admin Login<br />
 
-username : admin@qubicle.com
-password: 12345678
+ username : admin@qubicle.com<br />
+ password: 12345678
